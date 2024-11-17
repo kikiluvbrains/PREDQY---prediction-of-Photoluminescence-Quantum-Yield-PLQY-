@@ -31,7 +31,8 @@ PREDQY/
 ```
 
 Model Performance on Korean PLQY Dataset
-[image](https://github.com/user-attachments/assets/966a96a4-e6d6-46b3-a0f3-fab365827f6c)
+
+![image](https://github.com/user-attachments/assets/966a96a4-e6d6-46b3-a0f3-fab365827f6c)
 
 ### Cloning the Repository
 
