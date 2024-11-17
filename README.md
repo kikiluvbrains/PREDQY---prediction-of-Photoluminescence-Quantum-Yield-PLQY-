@@ -34,6 +34,16 @@ Model Performance on Korean PLQY Dataset
 
 ![image](https://github.com/user-attachments/assets/966a96a4-e6d6-46b3-a0f3-fab365827f6c)
 
+## How to predict the PLQY of a molecule
+
+First you would locate the model
+![Screenshot from 2024-11-17 03-09-40](https://github.com/user-attachments/assets/11766b3a-b592-4dd6-affa-b22a3fd1f778)
+
+After having loaded the model, you will type in the first and second smiles string and the press "Get PLQY"
+![Screenshot from 2024-11-17 03-11-37](https://github.com/user-attachments/assets/cc1dcc1f-db08-4716-be94-adb758672aca)
+
+The model will then predict the PLQY of the two smiles strings 
+
 ### Cloning the Repository
 
 To clone the PREDQY repository and navigate into the project directory, follow these steps:
